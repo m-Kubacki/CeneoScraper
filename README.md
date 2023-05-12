@@ -17,3 +17,7 @@
 | treść opinii | content | div.user-post\_\_text |
 | listę zalet | pros | div.review-feature\_\_title--positives ~ div.review-feature\_\_item |
 | listę wad | cons | div.review-feature\_\_title--negatives ~ div.review-feature\_\_item |
+
+## Wykorzystane biblioteki Python
+- Requests
+- BeautifulSoup4
